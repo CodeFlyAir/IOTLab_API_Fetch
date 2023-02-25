@@ -10,5 +10,7 @@ Screenshots  of the app.
 The android application is writtern in Java. Retrofit is used to communicate between API and user.
 
 Thank You
+
 Regards,
+
 Rungshit
